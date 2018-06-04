@@ -1,0 +1,14 @@
+{
+  "name": "dlousa92-resume",
+  "version": "1.0.0",
+  "description": "Daniel Lousa's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dlousa92@gmail.com",
+  "license": "ISC",
+  "bin": {
+    "daniel-resume": "./index.js"
+  }
+}
